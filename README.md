@@ -2,6 +2,7 @@
 
 Создать и активировать виртуальное окружение Python.
 
+
 Установить зависимости из файла **requirements.txt**:
 ```bash
 pip install -r requirements.txt
